@@ -31,9 +31,6 @@ This project is an interactive Excel dashboard designed to analyze customer char
 - Purchase behavior varied across regions and education levels.
 - Customer demographics played a significant role in bike purchasing patterns.
 
-## Dashboard Preview
-
-![Bike Sales Dashboard](dashboard.png)
 
 ## Skills Demonstrated
 - Data Cleaning
