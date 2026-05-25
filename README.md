@@ -33,7 +33,7 @@ This project is an interactive Excel dashboard designed to analyze customer char
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](dashboard(2).png)
+![Bike Sales Dashboard](dashboard.png)
 
 ## Skills Demonstrated
 - Data Cleaning
